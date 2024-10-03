@@ -1,4 +1,4 @@
-'''
+```
 
 cd ..\server\  
 
@@ -10,11 +10,11 @@ yarn add typescript mongoose express dotenv cors ...more
 
 npx tsc --init
 
-'''
+```
 
-**Inside tsconfig.json **
+**Inside tsconfig.json 
 
-'''
+```
 {
   "compilerOptions": {
     "target": "ES2023",
@@ -28,4 +28,4 @@ npx tsc --init
   }
 }
 
-'''
+```
