@@ -29,7 +29,7 @@ npx tsc --init
 }
 
 ```
-** Inside package.json 
+* Inside package.json 
 
 ```
 {
@@ -57,7 +57,7 @@ npx tsc --init
 }
 ```
 
-** File structure
+* File structure
 ```
 ──src
     ├───controllers
@@ -69,6 +69,6 @@ npx tsc --init
     └───uploads
     └───app.ts
 ```
-** start server 
+* start server 
 
 `yarn start `
